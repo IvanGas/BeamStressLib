@@ -1,5 +1,5 @@
 # BeamStressLib
-Simscape is a powerful tool embedded in Simulink environment that helps you to model physical systems. Simscape multubody give the possibility to model flexible beams using Euler theory. However, in engineering problems, it is very common to design and optimize structural elements, and for this reason it is important to keep under control the stress in the structure. Simscape library does not provide such important information (and moreover it is not easy to extract information like displacements or forces).
+Simscape is a powerful tool embedded in MATLAB-Simulink environment that helps you to model physical systems. Simscape multubody give the possibility to model flexible beams using Euler theory. However, in engineering problems, it is very common to design and optimize structural elements, and for this reason it is important to keep under control the stress in the structure. Simscape library does not provide such important information (and moreover it is not easy to extract information like displacements or forces).
 The aim of this library is to expand Simscape beam library, providing all the information an engineer requires, in a straightforward way.
 
 
